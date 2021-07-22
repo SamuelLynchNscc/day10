@@ -6,4 +6,5 @@ table, th, td tr{
 }
 body {
     background-color: cornflowerblue;
+    margin: 0;
 }
