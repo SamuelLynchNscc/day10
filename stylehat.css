@@ -8,3 +8,6 @@ body {
     background-color: cornflowerblue;
     margin: 0;
 }
+.navy {
+    position: fixed;
+}
